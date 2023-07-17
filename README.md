@@ -2,7 +2,7 @@
 
 To test the POST request body should have this structure:
 
-*{
+```{
     "table_name": "table_name",
     "fields": [
         {
@@ -18,4 +18,4 @@ To test the POST request body should have this structure:
             "type": "boolean"
         }
     ]
-}*
+}```
